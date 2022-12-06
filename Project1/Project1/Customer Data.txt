@@ -1,0 +1,7 @@
+user1 myPass Sana-Yasir 52,D-2,Johar-Town,Lahore 11
+user2 another Ayesha-Ahmed 33,Beverly-Hills,Cali 2
+user3 apple Manal-Rizwan Apt-2,Switzerland 21
+user4 banana Faiqa-Adnan 2,D-3,Johar-Town,Lahore 31
+user5 orange Haiqa-Wahid 92,E-2,Johar-Town,Lahore 5
+manal sana ayesha-ahmed ajskfkjajkaf 0
+samm sana dagadgag aegagdsd 0

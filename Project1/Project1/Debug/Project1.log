@@ -1,0 +1,13 @@
+﻿  sda_project.cpp
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(38,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(43,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(64,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(69,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(89,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(94,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(1051): warning C4715: 'onlinestore::Login': not all control paths return a value
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(901): warning C4172: returning address of local variable or temporary: SA
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(912): warning C4172: returning address of local variable or temporary: SM
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(923): warning C4172: returning address of local variable or temporary: IM
+D:\Uni\Fall '22\SDA\Project1\Project1\sda_project.cpp(934): warning C4172: returning address of local variable or temporary: FM
+  Project1.vcxproj -> D:\Uni\Fall '22\SDA\Project1\Debug\Project1.exe
